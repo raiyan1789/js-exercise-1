@@ -1,5 +1,5 @@
-# Basic Web Template
+# js-exercise-1
 
-This is a basic web template for projects. After cloning this to local computer, remember to change the origin with $ git remote set-url origin ... 
+Exploring different data types in Js as well as functions and methods. 
 
 
